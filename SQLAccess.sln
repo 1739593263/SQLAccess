@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAccess.Android", "SQLAccess\SQLAccess.Android\SQLAccess.Android.csproj", "{02D24A61-2D18-47D7-8925-95C20D77D72A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAccess", "SQLAccess\SQLAccess\SQLAccess.csproj", "{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D24A61-2D18-47D7-8925-95C20D77D72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D24A61-2D18-47D7-8925-95C20D77D72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D24A61-2D18-47D7-8925-95C20D77D72A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{02D24A61-2D18-47D7-8925-95C20D77D72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D24A61-2D18-47D7-8925-95C20D77D72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D24A61-2D18-47D7-8925-95C20D77D72A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4144019F-AFE0-4F3B-B4CC-0482FA7CA148}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CF6A7B-47C6-4474-AD72-A67BE30B27BA}
+	EndGlobalSection
+EndGlobal
